@@ -1,2 +1,2 @@
 #Practicando conflictos
-Línea modificada por la rama 2
+Línea modificicada por la rama 1
